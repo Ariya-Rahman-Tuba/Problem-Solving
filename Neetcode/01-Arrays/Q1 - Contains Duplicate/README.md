@@ -99,6 +99,7 @@ So, if the original array size and the `set` size are different, it means there 
 * [ ] Try solving again without looking at the code
 
 ---
+Link : https://neetcode.io/problems/duplicate-integer/question?list=neetcode150
 
 ## 💻 Solution
 
