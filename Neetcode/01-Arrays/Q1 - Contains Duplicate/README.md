@@ -2,7 +2,7 @@
 
 ## 🔗 Problem
 
-**Platform:** LeetCode
+**Platform:** NeetCode
 **Difficulty:** Easy
 **Topic:** Array, Set
 
